@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author DFATHEEM
+ *
+ */
+module CoreJava {
+}
